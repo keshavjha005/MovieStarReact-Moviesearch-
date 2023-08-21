@@ -1,6 +1,6 @@
 <h1>MovieFlix</h1>
 
-MovieFlix is a movie searching app created using Vite, React, SCSS, and the TMDB API. With MovieFlix, you can search for movies, watch their trailers, check out their cast, and filter movies by different genres.
+Moviestar is a movie searching app created using Vite, React, SCSS, and the TMDB API. With Moviestar, you can search for movies, watch their trailers, check out their cast, and filter movies by different genres.
 
 
 
@@ -23,7 +23,7 @@ MovieFlix is a movie searching app created using Vite, React, SCSS, and the TMDB
 
 <h1>Getting Started</h1>
 
-To get started with MovieFlix, follow these steps:
+To get started with Moviestar, follow these steps:
 
 Clone the repository.
 Install dependencies by running npm install.
@@ -36,7 +36,7 @@ Start the development server by running npm run dev.
 
 
 <h1>Contributing</h1>
-If you want to contribute to MovieFlix, you can do so by creating a pull request. Before submitting your pull request, make sure to follow these guidelines:
+If you want to contribute to Moviestar, you can do so by creating a pull request. Before submitting your pull request, make sure to follow these guidelines:
 
 •Follow the code style of the project.
 •Write tests for your code.
