@@ -1,4 +1,4 @@
-<h1>MovieFlix</h1>
+<h1>Moviestar</h1>
 
 Moviestar is a movie searching app created using Vite, React, SCSS, and the TMDB API. With Moviestar, you can search for movies, watch their trailers, check out their cast, and filter movies by different genres.
 
